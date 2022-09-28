@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 9rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.footer {
+  background-color: #6f42c1;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.galery-img {
+  width: 100%;
+}
+
+#galery .row > * {
+  padding: 0;
+}
